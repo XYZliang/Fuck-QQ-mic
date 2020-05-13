@@ -16,6 +16,7 @@ PS：此脚本重启QQ，重启电脑后均失效，仅一次有效，需要重�
 https://dldir1.qq.com/qqfile/QQforMac/QQ_6.6.2.dmg
 或天翼云链接（登陆就可满速下载）
 https://cloud.189.cn/t/yayyUbBF7rme
+
 6.6.0:
 https://dldir1.qq.com/qqfile/QQforMac/QQ_6.6.0.dmg
 或天翼云链接（登陆就可满速下载）
@@ -23,3 +24,7 @@ https://cloud.189.cn/t/FR3q6z6NNvMz
 
 
 卑微大一狗，不会shell脚本，仿造网上的依葫芦画瓢做的脚本。如果帮助到你的话，点个关注+星星防走丢鸭
+
+
+V1.0：单纯地实现功能
+V1.1：自动检测QQ是否正在运行，若不存在，提醒用户打开QQ，并每隔5秒检测一次
