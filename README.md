@@ -25,7 +25,10 @@ https://cloud.189.cn/t/FR3q6z6NNvMz
 
 卑微大一狗，不会shell脚本，仿造网上的依葫芦画瓢做的脚本。如果帮助到你的话，点个关注+星星防走丢鸭
 
-
 V1.0：单纯地实现功能
+
 V1.1：自动检测QQ是否正在运行，若不存在，提醒用户打开QQ，并每隔5秒检测一次
+
 V1.2：修复检测，现在更加准确
+
+V1.3：使用$(.)表示法，而不是传统的反标记以及bug修复	Use $(...) notation instead of legacy backticked ``...`.` and bug fixes
